@@ -1,0 +1,1 @@
+nmcli dev wifi connect 'NETLIFE YOLANDA J' password wsx_M469-ik
