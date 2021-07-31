@@ -1,0 +1,7 @@
+# bluetoothctl 
+[bluetooth]# agent on 
+[bluetooth]# default-agent 
+[bluetooth]# power on
+[bluetooth]# scan on
+[bluetooth]# pair 00:12:34:56:78:90
+[bluetooth]# connect 00:12:34:56:78:90
