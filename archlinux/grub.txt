@@ -1,0 +1,2 @@
+editat tiempo de arranque: sudo nvim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
